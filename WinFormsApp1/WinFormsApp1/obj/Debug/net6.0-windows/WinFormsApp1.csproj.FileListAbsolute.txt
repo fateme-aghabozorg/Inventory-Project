@@ -1,0 +1,125 @@
+C:\Users\computer engineer\Desktop\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\computer engineer\Desktop\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\computer engineer\Desktop\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\computer engineer\Desktop\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\computer engineer\Desktop\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\computer engineer\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\computer engineer\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\computer engineer\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\computer engineer\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\computer engineer\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\computer engineer\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\computer engineer\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\computer engineer\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\computer engineer\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\computer engineer\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\computer engineer\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+C:\Users\computer engineer\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.inventory.resources
+C:\Users\computer engineer\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Properties.Resources.resources
+C:\Users\computer engineer\Desktop\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\computer engineer\Desktop\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\computer engineer\Desktop\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\computer engineer\Desktop\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\computer engineer\Desktop\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\computer engineer\Desktop\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\computer engineer\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CopyComplete
+C:\Users\computer engineer\Desktop\Project\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\computer engineer\Desktop\Project\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\computer engineer\Desktop\Project\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\computer engineer\Desktop\Project\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\computer engineer\Desktop\Project\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\computer engineer\Desktop\Project\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\computer engineer\Desktop\Project\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\computer engineer\Desktop\Project\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\computer engineer\Desktop\Project\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\computer engineer\Desktop\Project\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\computer engineer\Desktop\Project\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\computer engineer\Desktop\Project\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\computer engineer\Desktop\Project\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.inventory.resources
+C:\Users\computer engineer\Desktop\Project\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Properties.Resources.resources
+C:\Users\computer engineer\Desktop\Project\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\computer engineer\Desktop\Project\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\computer engineer\Desktop\Project\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\computer engineer\Desktop\Project\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\computer engineer\Desktop\Project\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\computer engineer\Desktop\Project\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CopyComplete
+C:\Users\computer engineer\Desktop\Project\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\computer engineer\Desktop\Project\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\computer engineer\Desktop\Project\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\computer engineer\Desktop\Project\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\computer engineer\Desktop\Project\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+D:\آموزش\Project\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+D:\آموزش\Project\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.inventory.resources
+D:\آموزش\Project\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Properties.Resources.resources
+D:\آموزش\Project\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+D:\آموزش\Project\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\آموزش\Project\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+D:\آموزش\Project\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+D:\آموزش\Project\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+D:\آموزش\Project\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+D:\آموزش\Project\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+D:\آموزش\Project\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+D:\آموزش\Project\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+D:\آموزش\Project\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+D:\آموزش\Project\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+D:\آموزش\Project\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+D:\آموزش\Project\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+D:\آموزش\Project\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\آموزش\Project\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\آموزش\Project\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\آموزش\Project\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\آموزش\Project\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\آموزش\Project\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\آموزش\Project\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CopyComplete
+D:\آموزش\Project\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+D:\آموزش\Project\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+C:\Users\computer engineer\Desktop\برنامه ریزی تابستان\codes\Project_SQL_Intern\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\computer engineer\Desktop\برنامه ریزی تابستان\codes\Project_SQL_Intern\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\computer engineer\Desktop\برنامه ریزی تابستان\codes\Project_SQL_Intern\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\computer engineer\Desktop\برنامه ریزی تابستان\codes\Project_SQL_Intern\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\computer engineer\Desktop\برنامه ریزی تابستان\codes\Project_SQL_Intern\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\computer engineer\Desktop\برنامه ریزی تابستان\codes\Project_SQL_Intern\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\computer engineer\Desktop\برنامه ریزی تابستان\codes\Project_SQL_Intern\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\computer engineer\Desktop\برنامه ریزی تابستان\codes\Project_SQL_Intern\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\computer engineer\Desktop\برنامه ریزی تابستان\codes\Project_SQL_Intern\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\computer engineer\Desktop\برنامه ریزی تابستان\codes\Project_SQL_Intern\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\computer engineer\Desktop\برنامه ریزی تابستان\codes\Project_SQL_Intern\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\computer engineer\Desktop\برنامه ریزی تابستان\codes\Project_SQL_Intern\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\computer engineer\Desktop\برنامه ریزی تابستان\codes\Project_SQL_Intern\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.inventory.resources
+C:\Users\computer engineer\Desktop\برنامه ریزی تابستان\codes\Project_SQL_Intern\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Properties.Resources.resources
+C:\Users\computer engineer\Desktop\برنامه ریزی تابستان\codes\Project_SQL_Intern\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\computer engineer\Desktop\برنامه ریزی تابستان\codes\Project_SQL_Intern\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\computer engineer\Desktop\برنامه ریزی تابستان\codes\Project_SQL_Intern\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\computer engineer\Desktop\برنامه ریزی تابستان\codes\Project_SQL_Intern\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\computer engineer\Desktop\برنامه ریزی تابستان\codes\Project_SQL_Intern\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\computer engineer\Desktop\برنامه ریزی تابستان\codes\Project_SQL_Intern\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CopyComplete
+C:\Users\computer engineer\Desktop\برنامه ریزی تابستان\codes\Project_SQL_Intern\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\computer engineer\Desktop\برنامه ریزی تابستان\codes\Project_SQL_Intern\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\computer engineer\Desktop\برنامه ریزی تابستان\codes\Project_SQL_Intern\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\computer engineer\Desktop\برنامه ریزی تابستان\codes\Project_SQL_Intern\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\computer engineer\Desktop\برنامه ریزی تابستان\codes\Project_SQL_Intern\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+C:\Users\computer engineer\Desktop\Intern_Project\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\computer engineer\Desktop\Intern_Project\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\computer engineer\Desktop\Intern_Project\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\computer engineer\Desktop\Intern_Project\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\computer engineer\Desktop\Intern_Project\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\computer engineer\Desktop\Intern_Project\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\computer engineer\Desktop\Intern_Project\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\computer engineer\Desktop\Intern_Project\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\computer engineer\Desktop\Intern_Project\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\computer engineer\Desktop\Intern_Project\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\computer engineer\Desktop\Intern_Project\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\computer engineer\Desktop\Intern_Project\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\computer engineer\Desktop\Intern_Project\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.inventory.resources
+C:\Users\computer engineer\Desktop\Intern_Project\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Properties.Resources.resources
+C:\Users\computer engineer\Desktop\Intern_Project\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\computer engineer\Desktop\Intern_Project\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\computer engineer\Desktop\Intern_Project\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\computer engineer\Desktop\Intern_Project\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\computer engineer\Desktop\Intern_Project\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\computer engineer\Desktop\Intern_Project\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CopyComplete
+C:\Users\computer engineer\Desktop\Intern_Project\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\computer engineer\Desktop\Intern_Project\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\computer engineer\Desktop\Intern_Project\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\computer engineer\Desktop\Intern_Project\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\computer engineer\Desktop\Intern_Project\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
